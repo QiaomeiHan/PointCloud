@@ -1,3 +1,3 @@
 # PointCloud
 
-The Classification and Segmentation results of PonitNet of shapenet dataset.
+The Classification and Segmentation results of PointNet of shapenet dataset.
